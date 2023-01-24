@@ -5,5 +5,5 @@ Its a really simple script to grab the data, the harder thing was where to [get 
 This is only for **johannesburg** and is only the satges and will still need to make use of the [Loadshedding table](https://www.eskom.co.za/distribution/customer-service/outages/municipal-loadshedding-schedules/). 
 
 
-``eskom.py`` is good for just getting the dates and Stage number.\n
+``eskom.py`` is good for just getting the dates and Stage number.
 ``webscrape_Tables.py`` will get the times and their affected blocked. 
